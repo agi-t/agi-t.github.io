@@ -73,7 +73,7 @@ nav a:hover{
 
 }
  a{
-   color: #E55B3C; /* portfolio, about contact*/
+   color: black; /* portfolio, about contact*/
  }
 
  a:hover{
@@ -83,7 +83,7 @@ nav a:hover{
  }
 #banner h1, #banner h2{
   text-align: center;
-  color:#ff9966; /*név*/
+  color:white; /*név*/
 }
 
 #banner{
@@ -117,8 +117,8 @@ nav ul li{
 
 #about > h2{ /*about me*/
   text-align: left;
-  background-color: #E55B3C;
-  color:#EDC9AF;
+  background-color: black;
+  color: white;
   padding:10px; 
 }
 
@@ -129,8 +129,8 @@ nav ul li{
 }
 
 footer{
-  background-color: #E55B3C; /*fb, insta*/
-  color:black;
+  background-color: black; /*fb, insta*/
+  color:white;
 
 }
 
