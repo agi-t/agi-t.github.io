@@ -82,7 +82,7 @@ nav a:hover{
    cursor: pointer;
  }
 #banner h1, #banner h2{
-  text-align-last: center;
+  text-align: center;
   color:#FFFFFF; /*név*/
 }
 
@@ -95,11 +95,11 @@ nav a:hover{
 h1{
   font-size: 4em;
   font-weight: 300;
-  text-align-last: center;
+  text-align: center;
 }
 h2{
   font-size: 3em;
-  text-align-last: center;
+  text-alignt: center;
 }
 
 nav ul li{
@@ -108,7 +108,7 @@ nav ul li{
 
 }
 #about img{
-  border-radius: 150px;
+  border-radius: 50px;
   height:200px;
   float:left;
 
@@ -143,7 +143,7 @@ footer ul {
 }
 
 footer img{
-  height:25px;
+  height:10px;
 }
 
 
