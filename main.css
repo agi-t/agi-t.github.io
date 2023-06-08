@@ -73,7 +73,7 @@ nav a:hover{
 
 }
  a{
-   color: #000000; /* portfolio, about contact*/
+   color: #000000; /* portfolio, about, contact*/
  }
 
  a:hover{
@@ -83,7 +83,7 @@ nav a:hover{
  }
 #banner h1, #banner h2{
   text-align: center;
-  color:#F5FFFA; /*név*/
+  color:#008B8B; /*név*/
 }
 
 #banner{
@@ -118,7 +118,7 @@ nav ul li{
 #about > h2{ /*about me*/
   text-align: left;
   background-color: #000000;
-  color: #F5FFFA;
+  color: #FFFFFF;
   padding:10px; 
 }
 
@@ -129,8 +129,8 @@ nav ul li{
 }
 
 footer{
-  background-color: #DCDCDC; /*fb, insta*/
-  color:#F5FFFA;
+  background-color: #008B8B; /*fb, insta*/
+  color:#000000;
 
 }
 
@@ -186,8 +186,8 @@ input, select, textarea{ /*innen lehet törölni*/
 }
 
 input[type=submit] {
-  background-color: #DCDCDC;
-  color: #F5FFFA;
+  background-color: #008B8B;
+  color: #000000;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
