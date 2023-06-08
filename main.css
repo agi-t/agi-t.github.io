@@ -73,7 +73,7 @@ nav a:hover{
 
 }
  a{
-   color: #000000; /* portfolio, about, contact*/
+   color: #008B8B; /* portfolio, about, contact*/
  }
 
  a:hover{
@@ -83,7 +83,7 @@ nav a:hover{
  }
 #banner h1, #banner h2{
   text-align: center;
-  color:#008B8B; /*név*/
+  color:#FFFFFF; /*név*/
 }
 
 #banner{
